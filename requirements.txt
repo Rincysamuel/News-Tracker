@@ -1,0 +1,7 @@
+streamlit
+fastapi
+uvicorn
+transformers
+feedparser
+torch
+requests
